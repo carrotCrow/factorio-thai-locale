@@ -1,12 +1,12 @@
-#Thai Localization for Factorio
+# Thai Localization for Factorio
 
-##personal thai localization for factorio, this is personal localization every translated word , line. it's just to serve my liking style of localization.
+## personal thai localization for factorio, this is personal localization every translated word , line. it's just to serve my liking style of localization.
 
-#features:
+# features:
 
 + translated 40% ( WIP )
 + additional fact / item description
 
-#usage:
+# usage:
 
-##download as zip and extract to factorio root
+## download as zip and extract to factorio root
