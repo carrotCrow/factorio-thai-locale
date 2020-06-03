@@ -1,0 +1,30 @@
+{
+  "completed": 56,
+  "language-name": "ภาษาไทย",
+  "font": {
+    "default":
+    [
+      "__core__/fonts/Kanit-Light.ttf"
+    ],
+    "default-bold":
+    [
+      "__core__/fonts/Kanit-Light.ttf"
+    ],
+    "default-mono":
+    [
+      "__core__/fonts/Kanit-Light.ttf"
+    ],
+    "default-semibold":
+    [
+      "__core__/fonts/Kanit-Light.ttf"
+    ],
+    "locale-pick":
+    [
+      "__core__/fonts/Kanit-Light.ttf"
+    ],
+    "scenario-message-dialog":
+    [
+      "__core__/fonts/Kanit-Light.ttf"
+    ]
+  }
+}
